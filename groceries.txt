@@ -4,3 +4,5 @@ vegitables
 Milk
 Egg
 Fruits
+juice
+curd
